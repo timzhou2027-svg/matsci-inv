@@ -38,8 +38,6 @@ Fourier analysis, \(k\)-space mode decomposition.
 - 3×3 Cu-concentration/roughness parameter sweep
 - Mode-resolved analysis of finite-wavevector excitations
 
-[Project repository / manuscript link]
-
 ### Flexible RF Metamaterials
 
 Metamaterial-inspired geometric structuring for deformation-stable 
@@ -48,7 +46,7 @@ flexible RF antennas.
 **Methods:** electromagnetic simulation, impedance/S-parameter analysis,
 geometric optimization, and experimental characterization.
 
-[Project link]
+> Project repository coming soon.
 
 ### Graphene Grain-Boundary Analysis
 
