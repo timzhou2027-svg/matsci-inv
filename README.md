@@ -58,7 +58,7 @@ electron-diffraction response.
 **Methods:** atomistic structural analysis, simulated diffraction, 
 graph/network analysis, and numerical visualization.
 
-[Project link]
+> Project repository coming soon.
 
 ## Tools
 
