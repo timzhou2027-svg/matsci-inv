@@ -38,15 +38,11 @@ Fourier analysis, \(k\)-space mode decomposition.
 - 3×3 Cu-concentration/roughness parameter sweep
 - Mode-resolved analysis of finite-wavevector excitations
 
-### Flexible RF Metamaterials
+### Li–Si Battery Modeling: Lithium Diffusion and Chemo-Mechanical Stress in Silicon Electrodes
 
-Metamaterial-inspired geometric structuring for deformation-stable 
-flexible RF antennas.
+Li–Si battery modeling of coupled lithium diffusion and stress evolution in silicon electrodes.
 
-**Methods:** electromagnetic simulation, impedance/S-parameter analysis,
-geometric optimization, and experimental characterization.
-
-> Project repository coming soon.
+**Methods:** axisymmetric finite-difference diffusion modeling, lithium concentration mapping, chemo-mechanical stress analysis, cylindrical electrode modeling, and 2-D/3-D visualization.
 
 ### Graphene Grain-Boundary Analysis
 
