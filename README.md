@@ -52,8 +52,6 @@ electron-diffraction response.
 **Methods:** atomistic structural analysis, simulated diffraction, 
 graph/network analysis, and numerical visualization.
 
-> Project repository coming soon.
-
 ## Tools
 
 `Python` · `NumPy` · `SciPy` · `Matplotlib` · `VAMPIRE` · `COMSOL` · 
